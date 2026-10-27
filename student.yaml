@@ -1,0 +1,16 @@
+- firstname: abhishek
+  lastname: k
+  dob: 01-01-01
+  addresses:
+  - type: permanent
+    door: 3/20
+    streetname: goldsmith
+    city: karimnagar
+  - type: temporary
+    door: 432
+    streetname: dsoj
+    city: hdsafj
+  skills:
+    os: linux
+    ide: test
+    CM: ansible
