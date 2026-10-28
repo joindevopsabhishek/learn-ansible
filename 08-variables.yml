@@ -3,7 +3,7 @@
   connetion: local
   vars_prompt:
   - name: username
-    prompt: enter user name
+    prompt: enter username
     private: false
   - name: password
     prompt: enter password
