@@ -11,6 +11,5 @@
     vars:
       property: 10acrs
     debug:
-      msg: hi, i got {{ property }} 
-    
+      msg: hi, i got {{ property }}
     

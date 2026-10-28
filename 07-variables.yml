@@ -1,0 +1,9 @@
+- name: variables from files
+  hosts: local
+  connection: local
+  vars_files:
+  - course.yml
+  tasks:
+  - name: print course info
+    debug:
+      msg: hi im learning {{ course }},from {{ trainer }} duration is {{ duration }}
